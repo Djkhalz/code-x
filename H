@@ -1,6 +1,0 @@
-my-website/
-│
-├── index.html
-├── style.css
-├── api.js
-└── README.md
